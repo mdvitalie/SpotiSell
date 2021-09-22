@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="products.xsl" ?>
+<spotiSell xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation='products.xsd'>
+
+    <category productsCategory="CarsSell">
+        <code codeID="456-01">
+            <name>Ford</name>
+            <description>Ford Mustang, Petrol 5.0</description>
+            <quantity>2</quantity>
+            <unitPrice>35400</unitPrice>  
+        </code>
+        <code codeID="534-02">
+            <name>Toyota</name>
+            <description>Toyota RAV4, Diesel 2.2</description>
+            <quantity>3</quantity>
+            <unitPrice>38500</unitPrice>  
+        </code>
+        <code codeID="257-03">
+            <name>Peugeot</name>
+            <description>Peugeot 508, Diesel 1.6</description>
+            <quantity>4</quantity>
+            <unitPrice>22800</unitPrice>  
+        </code>
+        <code codeID="874-04">
+            <name>Honda</name>
+            <description>Honda Civic, Petrol 1.4</description>
+            <quantity>7</quantity>
+            <unitPrice>16400</unitPrice>  
+        </code>
+        <code codeID="987-05">
+            <name>BMW</name>
+            <description>BMW X5, Diesel 3.5</description>
+            <quantity>4</quantity>
+            <unitPrice>45900</unitPrice>  
+        </code>
+        <code codeID="356-06">
+            <name>Mazda</name>
+            <description>Mazda 8, Petrol 1.8</description>
+            <quantity>9</quantity>
+            <unitPrice>19400</unitPrice>  
+        </code>
+        <code codeID="146-07">
+            <name>Mitsubishi</name>
+            <description>Mitsubishi Carisma, Diesel 2.0</description>
+            <quantity>3</quantity>
+            <unitPrice>37900</unitPrice>  
+        </code>
+        <code codeID="565-08">
+            <name>Audi</name>
+            <description>Audi 6, Petrol 2.0</description>
+            <quantity>4</quantity>
+            <unitPrice>28500</unitPrice>  
+        </code>
+        <code codeID="853-09">
+            <name>Hyundai</name>
+            <description>Hyundai, Diesel 2.5</description>
+            <quantity>12</quantity>
+            <unitPrice>19200</unitPrice>  
+        </code>
+        <code codeID="285-10">
+            <name>Lexus</name>
+            <description>Lexus LX, Diesel 3.0</description>
+            <quantity>2</quantity>
+            <unitPrice>38600</unitPrice>  
+        </code>
+    </category>              
+</spotiSell>
+        
